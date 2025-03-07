@@ -58,6 +58,14 @@ img {
     margin: auto;
     
 }
+p {
+    text-align: center;
+    margin: 0;
+    font-size: 15px;
+    padding: 0.em;
+    margin: 0;
+    color: rgb(255, 255, 255);
+}
 
 
 
